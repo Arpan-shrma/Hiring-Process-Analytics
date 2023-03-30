@@ -6,3 +6,5 @@ Firstly, I have used the basics of the data analytics process to clean the raw d
 I have used the web based application “Google Sheets” which is part of google online docs and “Microsoft Excel for Mac version 16.70” for performing various functions on spreadsheets. Both of these software provide ease of work and make data sharing and real time tracking very easy.
 # Google Sheets:- 
 https://docs.google.com/spreadsheets/d/1HJ0tFabHorItSeFqvcghrEBy3-CgZFyIgSvd1wHmFas/edit?usp=sharing
+# Full Report Link:-
+https://medium.com/@Arpan_sharma/project-description-8edd01c93ee0
